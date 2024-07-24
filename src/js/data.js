@@ -20,4 +20,4 @@ let dataSetVersion = '';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'https://files.catbox.moe/';
+const imageRoot = 'https://kathwack.github.io/snowbreak-charasort/chara/';
