@@ -5,7 +5,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Disable NPC Characters",
     key: "npc",
-    tooltip: "Check this to remove all NPCs.",
+    tooltip: "[Doesn't do anything atm]",
     checked: true,
   },
 ];
@@ -117,94 +117,17 @@ dataSet[dataSetVersion].characterData = [
     },
   },
   {
-    name: "Yao",
-    img: "Yao.png",
+    name: "Vidya Shannon",
+    img: "Vidya.png",
     opts: {
       npc: false,
     },
   },
   {
-    name: "Caroline",
-    img: "Caroline.png",
+    name: "Yao",
+    img: "Yao.png",
     opts: {
-      npc: true,
+      npc: false,
     },
-  },
-  {
-    name: "Esther",
-    img: "Esther.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "Gavin",
-    img: "Gavin.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "General Adrian",
-    img: "Adrian.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "Jean Súrion Sartre",
-    img: "Jean.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "Joseph the Bison",
-    img: "Joseph.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "Naruse Masashi",
-    img: "Masashi.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "Tatiana Orlova",
-    img: "Tatiana.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "Will Anderson",
-    img: "Will.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "π",
-    img: "π.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "τ",
-    img: "τ.png",
-    opts: {
-      npc: true,
-    },
-  },
-  {
-    name: "ω",
-    img: "ω.png",
-    opts: {
-      npc: true,
-    },
-  },
+  }
 ];
